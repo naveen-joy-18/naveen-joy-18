@@ -67,7 +67,7 @@
 ---
 
 ## 📊 GitHub Activity
-
+**100+ Commits from 2022-2025**  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveeen-engineering&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveeen-engineering&theme=tokyonight" />
