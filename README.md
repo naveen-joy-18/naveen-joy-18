@@ -1,87 +1,88 @@
 <h1 align="center">Hey there 👋, I'm Naveen Joy</h1>
 <p align="center">
-  🚀 Engineer by Degree | Inventor by Design | Thinker of Possibilities  
-  💻 Always Building. Always Learning. Always Bold.
+  ⚙️ Applied AI Engineer | ML Developer | GenAI & RAG | Data Scientist  
+  🧠 From Omics to Open Source — Building AI that Matters.
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍🔬 About Me
 
-🎓 B.E. Information Science (VTU) – CGPA: **9.15**  
-🛠️ Builder of wild ideas: AI, Networks, Cybersecurity, and the occasional madness  
-🕵️‍♂️ Steganography, Encryption, and hiding secrets better than your ex ever did  
-📡 Obsessive about system design, code quality, and open innovation  
-
----
-
-## 💼 Experience Snapshot
-
-**Internships:**  
-- 🔬 **CIODS** – AI for defense  
-- 🧠 **AiRobosoft** – Deep learning meets image intelligence  
-- 🌐 **Prodigy InfoTech** – Full-stack + ML magic  
-- ⚙️ **NSDC, Genesys** – Real-world tech, real-time learning  
-
-**Certifications:**  
-- 📘 Microsoft DP-900  
-- ☁️ AWS Cloud Essentials  
+🎓 Recent B.E. Information Science Grad – VTU (CGPA: **9.24**)  
+🏥 **Data Scientist @ CIODS**, integrating AI into biomedical and clinical omics research  
+🧠 Working at the intersection of Generative AI, ML, and Systems Engineering  
+🚀 Core Belief: *"AI isn't just automation. It's augmentation—with meaning."*
 
 ---
 
-## 🛠 Tech Toolbox
+## 💼 What I Do
+
+- 🧠 **Applied AI Engineering** — real-world deployment of ML systems  
+- 🧩 **Machine Learning Modeling** — LSTMs, Transformers, GNNs, RAG systems  
+- 🛠️ **DevOps for AI** — CI/CD, Docker, Jenkins, GPU optimization  
+- 🧬 **Generative AI & RAG** — building custom GenAI pipelines using Retrieval-Augmented Generation  
+- 📊 **Data Science at Scale** — pipelines, visualization, and model tuning
+
+---
+
+## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,vscode,git,github,bash" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,linux,git,fastapi,flask,streamlit,bash,vscode,cpp,java" height="40"/>
 </p>
 
 <details>
-  <summary>📌 Also familiar with...</summary>
+  <summary>📌 Plus:</summary>
 
-  - Docker & DevOps Basics  
-  - TensorFlow, OpenCV, scikit-learn  
-  - Streamlit, Flask, FastAPI  
-  - HTML/CSS, a sprinkle of JS  
-  - Wireshark, Nmap, aircrack-ng (yeah, I go low-level too)
+  - ✨ HuggingFace Transformers, LangChain, OpenAI API  
+  - 🔐 AES encryption, InfoSec basics  
+  - 📈 Data visualization – Seaborn, Matplotlib  
+  - 🌐 Web: Flask, FastAPI, Streamlit, REST  
+  - ☁️ AWS (DevOps Intern @ NSDC)
 </details>
 
 ---
 
-## 🚧 Featured Projects
+## 🧪 Featured Projects
 
-🛡️ **Dual Personality USB Vault**  
-> A USB that wears two masks. One normal, one encrypted. Python-powered stealth.
+🔐 **Stealth USB Vault (Apr 2025)**  
+> Dual-partition USB with an AES-encrypted vault, built using Python & Windows-level security scripts.
 
-🧑‍⚕️ **AI Prescription Genie**  
-> Enter symptoms → Get probable diseases + full prescriptions with confidence scores.
+🧬 **Kinase-Based Disorder Predictor**  
+> Biomedical LSTM model for mutation classification in kinase datasets.
 
-🦈 **Shark Tank Analyzer**  
-> Predicts which startup ideas investors will *actually* fund.
+🎙️ **Voice-to-Screenplay Generator**  
+> NLP tool that transforms speech into screenplay-formatted scripts using GenAI.
 
-🌍 **Satellite Disaster Detector**  
-> Detect floods, fires, and landslides from space. Alerts + real-time map overlays.
+📡 **Animal/Bird Intrusion Detection System**  
+> Smart farm protector using audio-visual ML + alert generation.
 
-🛣 **Pothole Simulation Suite**  
-> Not just a pothole detector. It’s got chatbot, simulation videos, AI, and swagger.
+🖼️ **Neural Style Transfer using LLMs**  
+> Combines vision + generative models to blend artistic styles.
 
 ---
 
 ## 📊 GitHub Activity
-**100+ Commits from 2022-2025**  
+
+- 📈 **80+ contributions** across 2022–2025  
+- 🧑‍💻 Hands-on with **Generative AI**, **RAG architectures**, **Biomedical ML**, and **DevOps stacks**
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveeen-engineering&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveeen-engineering&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveeen-engineering&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveeen-engineering&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveeen-engineering&theme=github_dark" />
 </p>
 
 ---
 
-## 📄 TL;DR Resume
+## 🏆 Highlights
 
-- 💥 **Core Skills:** Python, Networking, Linux, AI/ML, Cybersecurity  
-- 🔐 Security Projects? Yup.  
-- 🧪 AI + Systems Integration? All day.  
-- 🧙‍♂️ Building stuff most people haven’t even Googled yet? You bet.
+- 📌 **Current Role**: Data Scientist @ CIODS  
+- 🏁 Generative AI Intern @ Prodigy InfoTech (Aug–Oct 2024)  
+- 🔧 AWS DevOps Intern @ NSDC (Sep–Dec 2024)  
+- 🛡️ System Security Trainee @ AiROBOSOFT (2023)  
+- 🧪 Co-author of **Deep Learning Research Paper @ ICFEST 2024**  
+- 🧠 100+ Skills listed on LinkedIn  
+- 👀 **1,242 followers**, **87 profile views**, **416+ post impressions**  
 
 ---
 
@@ -89,8 +90,8 @@
 
 <p align="center">
   <a href="mailto:naveenjvl18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/naveenjoy18/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/naveeen-engineering"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/naveen-joy-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/naveen-joy-18"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://wa.me/919483985321"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
@@ -98,11 +99,11 @@
 
 ## ⚡ Fun Fact
 
-> “I don’t just code. I craft digital epics with logic, build weapons from syntax, and bend networks to my will.”
+> “ Building intelligent systems that read, write, detect, and defend. Sometimes even give them a personality.”
 
 ---
 
 <p align="center">
-  🌟 If you vibe with my work, drop a star on [GitHub](https://github.com/naveeen-engineering).  
-  It fuels my caffeine-fueled coding sprees ☕💻
+  ⭐ Found something cool here? Drop a star on <a href="https://github.com/naveen-joy-18">GitHub</a>.  
+  Let’s keep the algorithms Alive ☕🚀
 </p>
