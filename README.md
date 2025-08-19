@@ -82,7 +82,7 @@
 - 🛡️ System Security Trainee @ AiROBOSOFT (2023)  
 - 🧪 Co-author of **Deep Learning Research Paper @ ICFEST 2024**  
 - 🧠 100+ Skills listed on LinkedIn  
-- 👀 **1,242 followers**, **87 profile views**, **416+ post impressions**  
+- 👀 **1500+ followers on Linkedin**, **5k + post impressions**  
 
 ---
 
