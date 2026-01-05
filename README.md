@@ -176,16 +176,47 @@ DOI: [10.1093/bib/bbaf662](https://doi.org/10.1093/bib/bbaf662)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveen-joy-18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-joy-18&layout=compact&langs_count=8&theme=tokyonight"/>
+### 🔥 Contribution Highlights
+
+| Metric | Value |
+|--------|-------|
+| 📈 **Total Contributions (2024)** | 150+ commits |
+| 🎯 **Active Repositories** | 15+ projects |
+| ⭐ **GitHub Stars Earned** | Growing |
+| 🌟 **LinkedIn Followers** | 1,500+ |
+| 👁️ **LinkedIn Post Impressions** | 5,000+ |
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveen-joy-18&theme=tokyonight)](https://git.io/streak-stats)
+<!-- Alternative Stats Cards - Try these if the above don't load -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveen-joy-18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-joy-18&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=naveen-joy-18&theme=tokyonight&cache_seconds=1800)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen-joy-18&theme=tokyo-night&hide_border=true)
 
 </div>
+
+<details>
+<summary><b>📌 Can't see the stats? Click here for alternatives</b></summary>
+
+If the cards above aren't loading, you can:
+1. **Check your GitHub profile directly**: [github.com/naveen-joy-18](https://github.com/naveen-joy-18)
+2. **Use GitHub's built-in stats**: Visit your profile to see live contribution graphs
+3. **Fork and customize**: Deploy your own stats instance using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+**Quick Stats:**
+- ✅ 150+ commits in 2024
+- ✅ Active in Quantum ML, AI/ML, and Biomedical AI projects
+- ✅ Multiple open-source contributions
+- ✅ Winner of 2 national-level hackathons
+
+</details>
 
 ---
 
