@@ -181,10 +181,9 @@ DOI: [10.1093/bib/bbaf662](https://doi.org/10.1093/bib/bbaf662)
 | Metric | Value |
 |--------|-------|
 | 📈 **Total Contributions (2024)** | 150+ commits |
-| 🎯 **Active Repositories** | 15+ projects |
-| ⭐ **GitHub Stars Earned** | Growing |
-| 🌟 **LinkedIn Followers** | 1,500+ |
-| 👁️ **LinkedIn Post Impressions** | 5,000+ |
+| 🎯 **Active Repositories** | 25+ projects |
+| 🌟 **LinkedIn Followers** | 2000+ |
+| 👁️ **LinkedIn Post Impressions** | 10000+ |
 
 </div>
 
