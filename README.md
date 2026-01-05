@@ -19,7 +19,7 @@
 
 I'm a **Data Scientist at CIODS** (Centre for Integrative Omics Data Science), where I architect and deploy AI/ML systems for biomedical research. With a B.E. in Information Science (CGPA: 9.24) from VTU, I specialize in bridging the gap between cutting-edge AI research and real-world clinical applications.
 
-**What drives me:** *"AI isn't just automation—it's augmentation with meaning."*
+**Minds Beyond the future"*
 
 Currently exploring the frontier of **Quantum Machine Learning** and **Generative AI** to solve complex problems in proteomics, drug discovery, and precision medicine.
 
